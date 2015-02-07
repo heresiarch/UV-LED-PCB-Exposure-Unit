@@ -1,0 +1,11 @@
+-L "r8clib"
+-G
+-MS
+-O "C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release\UV_HEW_SRC.x30"
+-R8C
+"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release\ncrt0.r30"
+"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release\delay.r30"
+"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release\lcd_2wire.r30"
+"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release\main.r30"
+"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release\rotary_encoder.r30"
+"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release\string_conversion.r30"

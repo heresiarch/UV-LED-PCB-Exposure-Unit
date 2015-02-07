@@ -1,0 +1,5 @@
+-c
+-finfo
+-dir "C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release"
+-R8C
+"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\string_conversion.c"
