@@ -3,15 +3,15 @@
 [DATABASE_VERSION]
 "2.8" 
 [PROJECT_DETAILS]
-"UV_HEW_SRC" "C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC" "C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\UV_HEW_SRC.hwp" "M16C" "Renesas M16C Standard" "Application" "R8C/Tiny" "R8C/13" 
+"UV_HEW_SRC" "C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC" "C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\UV_HEW_SRC.hwp" "M16C" "Renesas M16C Standard" "Application" "R8C/Tiny" "R8C/13" 
 [INFORMATION]
 "No project information available" 
 [TOOL_CHAIN]
 "Renesas M16C Standard Toolchain" "5.43.00" 
 [CONFIGURATIONS]
-"Debug" "C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Debug" 
-"Debug_R8C_E8_SYSTEM" "C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Debug_R8C_E8_SYSTEM" 
-"Release" "C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release" 
+"Debug" "C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\Debug" 
+"Debug_R8C_E8_SYSTEM" "C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\Debug_R8C_E8_SYSTEM" 
+"Release" "C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\Release" 
 [BUILD_PHASES]
 "Renesas M16C Assembler" 1 
 "Renesas M16C C Compiler" 1 
@@ -106,12 +106,12 @@
 "Relocatable file" "Renesas M16C Linker" "Renesas M16C Assembler" 
 "Relocatable file" "Renesas M16C Linker" "Renesas M16C C Compiler" 
 [PROJECT_FILES]
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\delay.c" "User" "C source file" 2 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\lcd_2wire.c" "User" "C source file" 2 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\main.c" "User" "C source file" 2 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\ncrt0.a30" "User" "Assembly source file" 2 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\rotary_encoder.c" "User" "C source file" 2 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\string_conversion.c" "User" "C source file" 2 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\delay.c" "User" "C source file" 2 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\lcd_2wire.c" "User" "C source file" 2 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\main.c" "User" "C source file" 2 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\ncrt0.a30" "User" "Assembly source file" 2 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\rotary_encoder.c" "User" "C source file" 2 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\string_conversion.c" "User" "C source file" 2 
 [FOLDER]
 "Assembly source file" "Assembly source file" 
 "C source file" "C source file" 
@@ -120,20 +120,20 @@
 [ON_DEMAND_COMPONENTS_LOADED]
 [SYNC_SESSION_NAMES]
 [SESSIONS]
-"DefaultSession" "C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\DefaultSession.hsf" 0 
-"SessionR8C_E8_SYSTEM" "C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\SessionR8C_E8_SYSTEM.hsf" 0 
+"DefaultSession" "C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\DefaultSession.hsf" 0 
+"SessionR8C_E8_SYSTEM" "C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\SessionR8C_E8_SYSTEM.hsf" 0 
 [GENERAL_DATA_SESSION_DefaultSession]
 [GENERAL_DATA_SESSION_SessionR8C_E8_SYSTEM]
 [OPTIONS_Debug_Renesas M16C Assembler]
 "Assembly source file" "0f3d14283e84cc10" 2 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\ncrt0.a30" "0f3d14283e84cc10" 2 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\ncrt0.a30" "0f3d14283e84cc10" 2 
 [OPTIONS_Debug_Renesas M16C C Compiler]
 "C source file" "0f3d14283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\delay.c" "0f3d14283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\lcd_2wire.c" "0f3d14283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\main.c" "0f3d14283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\rotary_encoder.c" "0f3d14283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\string_conversion.c" "0f3d14283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\delay.c" "0f3d14283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\lcd_2wire.c" "0f3d14283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\main.c" "0f3d14283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\rotary_encoder.c" "0f3d14283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\string_conversion.c" "0f3d14283e84cc10" 1 
 [OPTIONS_Debug_Renesas M16C Configurator]
 "Single Shot" "0f66cd35a005cc10" 6 
 [OPTIONS_Debug_Renesas M16C Librarian]
@@ -152,18 +152,18 @@
 "[V|VERSION|2] [B|STARTUPLINK|1] [B|DEBUG|1] [B|MAP-S|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).x30^"] [S|INPUTLIBRARY|^"L=r8clib^"] [S|CPU|R8C] " 3 
 [EXCLUDED_FILES_Debug]
 [LINKAGE_ORDER_Debug]
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Debug\ncrt0.r30" 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\Debug\ncrt0.r30" 
 [GENERAL_DATA_CONFIGURATION_Debug]
 [OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C Assembler]
 "Assembly source file" "0ed144283e84cc10" 2 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\ncrt0.a30" "0ed144283e84cc10" 2 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\ncrt0.a30" "0ed144283e84cc10" 2 
 [OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C C Compiler]
 "C source file" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\delay.c" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\lcd_2wire.c" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\main.c" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\rotary_encoder.c" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\string_conversion.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\delay.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\lcd_2wire.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\main.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\rotary_encoder.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\string_conversion.c" "0ed144283e84cc10" 1 
 [OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C Configurator]
 "Single Shot" "0f66cd35a005cc10" 6 
 [OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C Librarian]
@@ -182,18 +182,18 @@
 "[V|VERSION|2] [B|STARTUPLINK|1] [B|DEBUG|1] [B|MAP-S|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).x30^"] [S|INPUTLIBRARY|^"L=r8clib^"] [S|CPU|R8C] " 3 
 [EXCLUDED_FILES_Debug_R8C_E8_SYSTEM]
 [LINKAGE_ORDER_Debug_R8C_E8_SYSTEM]
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Debug_R8C_E8_SYSTEM\ncrt0.r30" 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\Debug_R8C_E8_SYSTEM\ncrt0.r30" 
 [GENERAL_DATA_CONFIGURATION_Debug_R8C_E8_SYSTEM]
 [OPTIONS_Release_Renesas M16C Assembler]
 "Assembly source file" "0ed144283e84cc10" 2 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\ncrt0.a30" "0ed144283e84cc10" 2 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\ncrt0.a30" "0ed144283e84cc10" 2 
 [OPTIONS_Release_Renesas M16C C Compiler]
 "C source file" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\delay.c" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\lcd_2wire.c" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\main.c" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\rotary_encoder.c" "0ed144283e84cc10" 1 
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\string_conversion.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\delay.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\lcd_2wire.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\main.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\rotary_encoder.c" "0ed144283e84cc10" 1 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\string_conversion.c" "0ed144283e84cc10" 1 
 [OPTIONS_Release_Renesas M16C Configurator]
 "Single Shot" "0f66cd35a005cc10" 6 
 [OPTIONS_Release_Renesas M16C Librarian]
@@ -212,7 +212,7 @@
 "[V|VERSION|2] [B|STARTUPLINK|1] [B|DEBUG|1] [B|MAP-S|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).x30^"] [S|INPUTLIBRARY|^"L=r8clib^"] [S|CPU|R8C] " 3 
 [EXCLUDED_FILES_Release]
 [LINKAGE_ORDER_Release]
-"C:\workspaces\eclipse\UV-Belichter\UV_HEW_SRC\Release\ncrt0.r30" 
+"C:\Users\user\git\UV-LED-PCB-Exposure-Unit\UV_HEW_SRC\Release\ncrt0.r30" 
 [GENERAL_DATA_CONFIGURATION_Release]
 [GENERAL_DATA_CONFIGURATION_SESSION_Debug_DefaultSession]
 [SESSION_DATA_CONFIGURATION_SESSION_Debug_DefaultSession]

@@ -10,7 +10,7 @@
 "Debug_R8C_E8_SYSTEM" 
 "Release" 
 [CURRENT_CONFIGURATION]
-"Debug" 
+"Debug_R8C_E8_SYSTEM" 
 [CURRENT_SESSION]
 "DefaultSession" 
 [GENERAL_DATA_PROJECT]
